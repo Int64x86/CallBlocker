@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CallBlocker</string>
+    <string name="accessibility_description">Проверяет текст и номер на экране входящего звонка и отклоняет вызовы по заданным правилам.</string>
+    <string name="launcher_name">CallBlocker</string>
+</resources>
